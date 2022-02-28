@@ -75,3 +75,4 @@ project-coco-789-run
 
 C'est un super project pour compter les noix de coco!
 La methode arrive bientot
+Utiliser des models de bourrins
